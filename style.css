@@ -19,18 +19,17 @@ body{
     font-size: 100px;
     color: #F2E394;
     margin-left: 30%;
-    margin-top: 250px;
+    margin-top: 12%;
 }
 .lorem{
-    height: 81px;
-    width: 1148px;
+    width: 50%;
     font-size: 20px;
     margin: auto;
     color: #ffffff42;
 }
 .box{
-    width: 382px;
-    height: 92px;
+    width: 20%;
+    height: 10%;
     border-radius: 24px;
     background-color: #588C7E;
     display: inline-block;
@@ -41,13 +40,11 @@ body{
     font-size: 43px;
     color: white;
     width: 250px;
-    margin: 22px auto;
+    margin: 5% auto;
 }
 .left-bar{
-    margin-left: 19px;
-    margin-top: 16px;
-    width: 40px;
-    height: 25px;
+    margin-left: 1%;
+    margin-top: 1%;
     display: inline-block;
 }
 .right{
@@ -59,103 +56,103 @@ body{
 .middle{
     background-image: url(/img/middle.png);
     position: absolute;
-    top: 1100px;
+    top: 106%;
     width: 100%;
-    height: 1080px;
+    height: 67.5em;
 }
 .top-type{
     font-family: SenzorgaAnhok;
     font-size: 80px;
     color: #F2E394;
-    margin: 54px 0 0 745px;
+    margin: 3.375rem 0 0 46.5625rem;
 }
 .flex{
-    margin: 50px 300px;
+    margin: 3.125rem 18.75rem;
 }
 .flex div{
     display: inline-block;
-    margin: auto 50px;
+    margin: auto 3.125rem;
 }
 .type{
-    margin-left: 250px;
+    margin-left: 15.625rem;
 }
 .type div{;
     display: inline-block;
-    margin: auto 100px;
+    margin: auto 6.25rem;
 }
 .lor{
     color: white;
     font-size: 15px;
-    width: 260px;
+    width: 16.25rem;
 }
 .price div{
     display: inline-block;
     color: white;
     font-size: 30px;
-    margin: auto 200px;
+    margin: auto 12.5rem;
 }
 .price{
-    margin-left: 230px;
-    margin-top: 30px;
+    margin-left: 14.375rem;
+    margin-top: 1.875rem;
 }
 .button{
-    width: 197px;
-    height: 63px;
-    border-radius: 13px;
+    width: 12.3125rem;
+    height: 3.9375rem;
+    border-radius: 0.8125rem;
     background-color: white;
     box-shadow: gray 0 3px 10px;
-    margin-left: 845px;
-    margin-top: 70px;
+    margin-left: 52.8125rem;
+    margin-top: 4.375rem;
     color: #D96459;
     font-size: 30px;
     display: inline-block;
 }
 .view2{
-    margin-left: 30px;
-    margin-top: 12px;
+    margin-left: 1.875rem;
+    margin-top: 0.75rem;
 }
 .footer{
     width: 100%;
-    height: 459px;
+    height: 28.6875rem;
     background-color: #588C7E;
     position: absolute;
-    top: 2106px;
+    top: 131.625rem;
 }
 .fot-menu p{
     display: inline-block;
-    margin: 70px 357px 0 200px;
+    margin: 4.375rem 22.3125rem 0 12.5rem;
     color: white;
     font-size: 18px;
 }
 .border-fot{
     display: inline-block;
     width: 100%;
-    height: 1px;
+    height: 0.0625rem;
     background-color: white;
 }
 .bottom-bar p{
     color: white;
     font-size: 13px;
-    margin: 24px 0 0 200px;
+    margin: 24px 0 0 12.5rem;
     margin-top: 30px;
 }
 .bottom-bar{
     display: inline-block;
 }
 .sign{
-    width: 320px;
+    width: 20rem;
     position: absolute;
-    bottom: 275px;
-    left: 770px;
+    bottom: 17.1875rem;
+    left: 48.125rem;
     color: white;
 }
 .input-filled{
     background-color: white;
-    width: 304px;
+    width: 19rem;
     height: 42px;
     position: absolute;
     right: 12px;
-    top: 80px;
+    top: 5rem;
 }
 .send{
     background-color: #D96459;
@@ -166,25 +163,25 @@ body{
     border-radius: 10px;
     color: white;
     position: absolute;
-    top: 91px;
-    left: 239px;
+    top: 5.6875rem;
+    left: 14.9375rem;
 }
 .pay-bar img{
     margin: 0 24px 0 0;
 }
 .pay-bar{
     display: inline-block;
-    margin-left: 520px;
+    margin-left: 32.5rem;
     margin-top: 50px;
 }
 .about p{
     font-size: 13px;
     color: white;
-    margin: 24px 0 0 200px;
+    margin: 24px 0 0 12.5rem;
     margin-top: 30px;
 }
 .about{
     position: absolute;
-    right: 300px;
-    bottom: 120px;
+    right: 18.75rem;
+    bottom: 7.5rem;
 }
