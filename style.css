@@ -30,14 +30,14 @@ body{
 .box{
     width: 20%;
     height: 10%;
-    border-radius: 24px;
+    border-radius: 43px;
     background-color: #588C7E;
     display: inline-block;
     margin-left: 39%;
     margin-top: 8%;
 }
 .view{
-    font-size: 43px;
+    font-size: 260%;
     color: white;
     width: 250px;
     margin: 5% auto;
@@ -185,3 +185,198 @@ body{
     right: 18.75rem;
     bottom: 7.5rem;
 }
+.type1 div{
+    font-size: 0;
+}
+/* .......................................
+                MEDIA
+....................................... */
+@media (max-width:375px)    {
+    body{
+        background-image: url(/img/media\(bg\).png);
+        background-size: 375px 812px;
+        margin: 0px;
+        padding: 0;
+	    border: 0;
+    }
+    .left-bar-menu{
+        width: 22.61px;
+        position: absolute;
+        top: 10px;
+        left: 12px;
+    }
+    .right{
+        font-size: 11px;
+        position: absolute;
+        right: 12px;
+        top: 2px;
+    }
+    .name{
+        font-size: 50px;
+        margin-left: 6%;
+        margin-top: 150px;
+    }
+    .lorem{
+        color: white;
+        font-size: 10px;
+        text-align: center;
+        width: 260px;
+    }
+    .box{
+        width: 178px;
+        height: 43px;
+        margin: 305px 0 0 100px;
+        box-shadow: #ffffff5e 0 3px 10px;
+    }
+    .view{
+        font-size: 16px;
+        margin: 11px 0 0 46px;
+    }
+    .middle{
+        background-color: #F2AE72;
+        width: 375px;
+        height: 1316px;
+        position: absolute;
+        top: 812px;
+    }
+    .flex{
+        margin: 0 0 0 95px;
+    }
+    .flex div img{
+        width: 196px;
+        height: 268px;
+    }
+    .flex div{
+       margin: 80px 0 0 0;
+    }
+    .top-type{
+        font-size: 30px;
+        margin: 15px 0 0 107px;
+    }
+    .type div{
+        font-size: 0;
+    }
+    /* сделал невидемым */
+    .type1 div{
+        font-size: 10px;
+        color: white;
+    }
+    .type1{
+        position: absolute;
+    }
+    .lor11{
+        position: relative;
+        bottom: 750px;
+        width: 166px;
+        left: 110px;
+    }
+    .lor12{
+        position: relative;
+        bottom: 420px;
+        width: 166px;
+        left: 110px;
+    }
+    .lor13{
+        position: relative;
+        bottom: 90px;
+        width: 166px;
+        left: 110px;
+    }
+    .price div{
+        font-size: 15px;
+        color: white;
+    }
+    .price{
+        position: absolute;
+    }
+    .dollar1{
+        position: relative;
+        right: 260px;
+        bottom: 50px;
+    }
+    .dollar2{
+        position: relative;
+        right: 260px;
+        bottom: 770px;
+    }
+    .dollar3{
+        position: relative;
+        right: 260px;
+        bottom: 435px;
+    }
+    .button{
+        margin: 33px 0 0 135px;
+        width: 107px;
+        height: 35px;
+        box-shadow: #00000038 0 3px 10px;
+    }
+    .view2{
+        font-size: 17px;
+        margin: 7px 0 0 14px;
+    }
+    .footer{
+        width: 375px;
+        height: 347px;
+    }
+    .fot-menu p{
+        font-size: 9px;
+        margin: 20px 0 0 50px;
+    }
+    .fot-menu{
+        position: absolute;
+    }
+    .news{
+        position: relative;
+        top: 150px;
+    }
+    .bottom-bar{
+        position: relative;
+        bottom: 220px;
+    }
+    .bottom-bar p{
+        font-size: 7px;
+        margin: 5px 0 0 40px;
+        text-align: center;
+    }
+    .about p{
+        font-size: 7px;
+        margin: 5px 0 0 250px;
+        text-align: center;
+    }
+    .about{
+        position: absolute;
+        left: 1px;
+        top: 30px;
+    }
+    .pay-bar{
+        display: inline-block;
+        margin: 300px 0 0 0;
+    }
+    .sign{
+        font-size: 7px;
+        position: absolute;
+        left: 50px;
+    }
+    .sign p {
+        width: 149px;
+        position: absolute;
+        top: 120px;
+        left: 50px;
+    }
+    .input-filled{
+        width: 149px;
+        height: 22px;
+        font-size: 7px;
+        position: absolute;
+        top: 160px;
+        left: 50px;
+    }
+    .send{
+        width: 25px;
+        height: 13px;
+        font-size: 6px;
+        position: absolute;
+        top: 167px;
+        left: 160px;
+    }
+}            
